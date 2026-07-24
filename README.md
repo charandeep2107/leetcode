@@ -8,10 +8,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/charandeep2107/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0042-trapping-rain-water](https://github.com/charandeep2107/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/charandeep2107/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/charandeep2107/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0496-next-greater-element-i](https://github.com/charandeep2107/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0771-jewels-and-stones](https://github.com/charandeep2107/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -25,10 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/charandeep2107/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/charandeep2107/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/charandeep2107/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/charandeep2107/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
