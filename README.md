@@ -116,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/charandeep2107/leetcode/tree/main/0456-132-pattern/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/charandeep2107/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
