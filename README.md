@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/charandeep2107/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0771-jewels-and-stones](https://github.com/charandeep2107/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/charandeep2107/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3174-clear-digits](https://github.com/charandeep2107/leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/charandeep2107/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/charandeep2107/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/charandeep2107/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -125,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/charandeep2107/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/charandeep2107/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/charandeep2107/leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/charandeep2107/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
