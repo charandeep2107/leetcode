@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/charandeep2107/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/charandeep2107/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/charandeep2107/leetcode/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/charandeep2107/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
