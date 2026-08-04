@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/charandeep2107/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/charandeep2107/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0140-word-break-ii](https://github.com/charandeep2107/leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0162-find-peak-element](https://github.com/charandeep2107/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0456-132-pattern](https://github.com/charandeep2107/leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/charandeep2107/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/charandeep2107/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/charandeep2107/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/charandeep2107/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0162-find-peak-element](https://github.com/charandeep2107/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0456-132-pattern](https://github.com/charandeep2107/leetcode/tree/main/0456-132-pattern/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
