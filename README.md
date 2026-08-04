@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/charandeep2107/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/charandeep2107/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charandeep2107/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/charandeep2107/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/charandeep2107/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0140-word-break-ii](https://github.com/charandeep2107/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0456-132-pattern](https://github.com/charandeep2107/leetcode/tree/main/0456-132-pattern/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/charandeep2107/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/charandeep2107/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/charandeep2107/leetcode/tree/main/0456-132-pattern/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -167,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/charandeep2107/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/charandeep2107/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
