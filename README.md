@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/charandeep2107/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/charandeep2107/leetcode/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/charandeep2107/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/charandeep2107/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/charandeep2107/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -187,4 +188,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/charandeep2107/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/charandeep2107/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
