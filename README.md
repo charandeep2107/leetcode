@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/charandeep2107/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/charandeep2107/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/charandeep2107/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charandeep2107/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/charandeep2107/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/charandeep2107/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/charandeep2107/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/charandeep2107/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Dynamic Programming
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/charandeep2107/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/charandeep2107/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charandeep2107/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Minimax
