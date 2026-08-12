@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/charandeep2107/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/charandeep2107/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/charandeep2107/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charandeep2107/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charandeep2107/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/charandeep2107/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/charandeep2107/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0496-next-greater-element-i](https://github.com/charandeep2107/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0771-jewels-and-stones](https://github.com/charandeep2107/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charandeep2107/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charandeep2107/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/charandeep2107/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/charandeep2107/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -215,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/charandeep2107/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charandeep2107/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
