@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/charandeep2107/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/charandeep2107/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/charandeep2107/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1472-design-browser-history](https://github.com/charandeep2107/leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/charandeep2107/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charandeep2107/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charandeep2107/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/charandeep2107/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0456-132-pattern](https://github.com/charandeep2107/leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/charandeep2107/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1472-design-browser-history](https://github.com/charandeep2107/leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/charandeep2107/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [3174-clear-digits](https://github.com/charandeep2107/leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/charandeep2107/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/charandeep2107/leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,8 +253,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/charandeep2107/leetcode/tree/main/0155-min-stack/) | Medium |
+| [1472-design-browser-history](https://github.com/charandeep2107/leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/charandeep2107/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/charandeep2107/leetcode/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/charandeep2107/leetcode/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
