@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/charandeep2107/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/charandeep2107/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/charandeep2107/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/charandeep2107/leetcode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/charandeep2107/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0140-word-break-ii](https://github.com/charandeep2107/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/charandeep2107/leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/charandeep2107/leetcode/tree/main/0078-subsets/) | Medium |
 | [0140-word-break-ii](https://github.com/charandeep2107/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/charandeep2107/leetcode/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/charandeep2107/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
