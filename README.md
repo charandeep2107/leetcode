@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/charandeep2107/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charandeep2107/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charandeep2107/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/charandeep2107/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/charandeep2107/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/charandeep2107/leetcode/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/charandeep2107/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/charandeep2107/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
