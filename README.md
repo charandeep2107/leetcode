@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/charandeep2107/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/charandeep2107/leetcode/tree/main/1472-design-browser-history/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/charandeep2107/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
